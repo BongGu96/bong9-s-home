@@ -1,5 +1,4 @@
 # bong9-s-home
-<!DOCTYPE html>
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
